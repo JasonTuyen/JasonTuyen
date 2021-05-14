@@ -1,11 +1,11 @@
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jason-tuyen/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1)](https://www.linkedin.com/in/jason-tuyen/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iCookieStalker)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=4c68d7)](https://www.instagram.com/icookiestalker/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=405DE6)](https://www.instagram.com/icookiestalker/)
 
 ✌ Hi, I'm Jason Tuyen and I often go by the alias of iCookieStalker! I'm a Computer Science and Education student from Sacramento, California. I'm currently looking for an oportunity to work as a Software Engineer.
 
-Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)
+**Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)**
 
 ### GitHub Stats
 
