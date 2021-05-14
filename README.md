@@ -5,7 +5,7 @@
 
 ✌ Hi, I'm Jason Tuyen and I often go by the alias of iCookieStalker! I'm a Computer Science and Education student from Sacramento, California. I'm currently looking for an oportunity to work as a Software Engineer.
 
-**Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)**
+**Want to learn more about me?** [Check out my website!](https://www.jasontuyen.com/about)
 
 ### GitHub Stats
 
