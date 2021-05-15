@@ -17,7 +17,7 @@ Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/
 
 
 
-## 🍪 Fun Fact?
+## 🎉 Fun Fact
 
 If you're in the Sacramento Area these are my favorite places to grab cookies.
 
