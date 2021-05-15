@@ -7,6 +7,8 @@
 
 Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)
 
+### GitHub Stats 📊
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasontuyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Fun Facts? 🎉
