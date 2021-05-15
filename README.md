@@ -24,6 +24,8 @@ If you're in the Sacramento Area these are my favorite places to grab cookies.
 <!--
 **JasonTuyen/JasonTuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ADD SKILLS ICON AND PINNED REPOs
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
