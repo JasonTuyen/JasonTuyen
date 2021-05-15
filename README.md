@@ -7,11 +7,11 @@
 
 Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)
 
-### 📊 Skills, Languages, Tools, and Stats
+## 📊 Skills, Languages, Tools, and Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasontuyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎉 Fun Fact
+## 🎉 Fun Fact
 
 If you're in the Sacramento Area these are my favorite places to grab cookies.
 
