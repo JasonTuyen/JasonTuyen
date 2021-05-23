@@ -30,4 +30,4 @@ If you're in the Sacramento Area these are my favorite places to grab cookies.
 1. The Cookie Jar
 1. Crumbl Cookies
 
-[![Spotify](https://novatorem-hazel-seven.vercel.app/api/spotify)](https://open.spotify.com/user/icookiestalker
+[![Spotify](https://novatorem-hazel-seven.vercel.app/api/spotify)](https://open.spotify.com/user/icookiestalker)
