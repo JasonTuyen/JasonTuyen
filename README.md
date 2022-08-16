@@ -31,4 +31,4 @@ If you're in the Sacramento Area these are my favorite places to grab cookies.
 
 ## 🎵 Currently Listening
 
-[![Spotify](https://jasontuyen.vercel.app/api/spotify)](https://open.spotify.com/user/icookiestalker?si=f0fd6a48df9643d4) 
+[![Spotify](https://jasontuyen.vercel.app/api/spotify)](https://open.spotify.com/user/icookiestalker) 
