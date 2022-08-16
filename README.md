@@ -28,7 +28,3 @@ If you're in the Sacramento Area these are my favorite places to grab cookies.
 1. Insomnia Cookies
 1. The Cookie Jar
 1. Crumbl Cookies
-
-## 🎵 Currently Listening
-
-[![Spotify](https://jasontuyen.vercel.app/api/spotify)](https://open.spotify.com/user/icookiestalker) 
