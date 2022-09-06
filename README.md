@@ -1,11 +1,11 @@
 
 [![Banner](https://github.com/JasonTuyen/JasonTuyen/blob/main/banner.gif)](https://www.linkedin.com/in/jason-tuyen/)
 
-✌ Hi, I'm Jason Tuyen and I often go by the alias of iCookieStalker! I'm a Computer Science and Education student from California. I'm currently looking for an oportunity to work as a Software Engineer.
+✌ Hi, I'm Jason Tuyen and I often go by the alias of iCookieStalker! I'm a recent Computer Science and Education graduate from California. I'm currently looking for an oportunity to work as a Software Engineer.
 
 Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/about)
 
-## 📊 Skills, Languages, Tools, and Stats
+## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasontuyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +20,7 @@ Want to learn more about me? [Check out my website!](https://www.jasontuyen.com/
 
 
 
-## 🎉 Fun Fact
+## 🎉 Facts
 
 If you're in the Sacramento Area these are my favorite places to grab cookies.
 
