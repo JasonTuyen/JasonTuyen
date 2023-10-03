@@ -2,7 +2,7 @@
 Hello World, I'm Jason! 
 
 
-I am Graduate Student currently looking for work as a Software Engineer.
+I am a Graduate Student currently looking for work as a Software Engineer.
 
 
 [LinkedIn](https://www.linkedin.com/in/jason-tuyen/) | [Portfolio](https://www.jasontuyen.com/about)
