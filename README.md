@@ -2,7 +2,7 @@
 Hello World, I'm Jason! 
 
 
-I am currently looking for work as a Software Engineer while pursuing my Master's Degree.
+I am Graduate Student currently looking for work as a Software Engineer.
 
 
 [LinkedIn](https://www.linkedin.com/in/jason-tuyen/) | [Portfolio](https://www.jasontuyen.com/about)
