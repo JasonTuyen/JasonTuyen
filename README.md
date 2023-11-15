@@ -2,7 +2,7 @@
 Hello World, I'm Jason! 
 
 
-I am an Informatics Graduate Student with a Bachelors in Computer Science, currently looking for intern and entry-level roles.
+I am an Informatics Graduate Student with a Bachelor's in Computer Science, currently looking for intern and entry-level roles.
 
 
 [LinkedIn](https://www.linkedin.com/in/jason-tuyen/) | [Portfolio](https://www.jasontuyen.com/about)
